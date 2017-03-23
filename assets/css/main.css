@@ -2710,8 +2710,8 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("../../images/header.jpg");
-			background-size: auto,							cover;
+			background-image: url("../../images/header2.jpg");
+			background-size:cover;
 		}
 
 			.main.style2 a {
@@ -2802,8 +2802,8 @@
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("../../images/header.jpg");
-		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background-position: bottom center;
+		background-size: cover;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
@@ -2987,9 +2987,9 @@
 		background-color: #fff;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("../../images/header.jpg");
-		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background-image: url("../../images/footer.jpg");
+		background-position: bottom center;
+		background-size: contain;
 		text-align: center;
 	}
 
